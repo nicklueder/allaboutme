@@ -1,3 +1,10 @@
 body {
   background-color: #dac292; 
   }
+nav {
+    padding: 30px;
+    background-color: #e6e2d3
+    position: sticky;
+    top: 0;
+  text-shadow: 1px 1px 0 #444
+}
