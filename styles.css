@@ -12,6 +12,6 @@ nav {
 header {
     padding: 30px;
     height: 70%;
-    background-image: url('<img src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=cd4a11ad60f06184bb9fc945e8bdeb57&amp;dpr=1&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80&amp;cs=tinysrgb" alt="White sports car inside a dark parking garage."/>')
+    background-image: url('<img src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=cd4a11ad60f06184bb9fc945e8bdeb57&amp;dpr=1&amp;auto=format&amp;fit=crop&amp;w=1000&amp;q=80&amp;cs=tinysrgb" alt="White sports car inside a dark parking garage."/>');
     background-size: cover;
     background-attchment: fixed;
