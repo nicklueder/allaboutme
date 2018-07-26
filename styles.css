@@ -9,3 +9,9 @@ nav {
     top: 0;
   text-shadow: 1px 1px 0 #444
 }
+header {
+    padding: 30px;
+    height: 70%;
+    background-image: url('')
+    background-size: cover;
+    background-attchment: fixed;
