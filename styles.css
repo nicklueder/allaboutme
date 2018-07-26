@@ -20,3 +20,18 @@ header {
 H1 {
   text-align: center;
 {
+main {
+    padding-top: 15px;
+  }
+  aside {
+    padding: 30px;
+    background-color: #c4b7a6;
+  }
+    article {
+    padding: 30px;
+    background-color: white;
+  }
+      footer {
+    padding: 30px;
+    background-color: #b9936c;
+  }
